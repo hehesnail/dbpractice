@@ -1,3 +1,7 @@
+- [ ] project 1 Buffer Pool Manager
+- [ ] project 2 B+Tree
+- [ ] project 3 Concurrent Control
+- [ ] project 4 Logging & Recovery
 # 15-445 Database Systems
 # SQLite Project Source Code
 
